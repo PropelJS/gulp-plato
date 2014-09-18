@@ -11,7 +11,7 @@ module.exports = function (destDir, options) {
 	var paths = [];
 
 	options = options || {};
-	options.jshint = options.jshint || {};
+	options.jshint = options.jshint || false;
 	options.complexity = options.complexity || {};
 	options.complexity.newmi = true;
 
