@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.0",
-    "plato": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/plato/-/latest.tgz",
+    "plato": "git://github.com/PropelJS/plato",
     "through2": "^0.6.1"
   },
   "devDependencies": {
